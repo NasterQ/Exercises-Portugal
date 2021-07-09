@@ -1,0 +1,13 @@
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\bin\Debug\The Maze Game.exe.config
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\bin\Debug\The Maze Game.exe
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\bin\Debug\The Maze Game.pdb
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\bin\Debug\The Maze Game.xml
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\obj\Debug\The Maze Game.vbproj.AssemblyReference.cache
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\obj\Debug\The_Maze_Game.Form2.resources
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\obj\Debug\The_Maze_Game.Resources.resources
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\obj\Debug\The Maze Game.vbproj.GenerateResource.cache
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\obj\Debug\The Maze Game.vbproj.CoreCompileInputs.cache
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\obj\Debug\The Maze Game.exe
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\obj\Debug\The Maze Game.xml
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\obj\Debug\The Maze Game.pdb
+C:\Users\N4sterQ\Desktop\Praktyki\08.07.21\The Maze Game\obj\Debug\The_Maze_Game.Form1.resources

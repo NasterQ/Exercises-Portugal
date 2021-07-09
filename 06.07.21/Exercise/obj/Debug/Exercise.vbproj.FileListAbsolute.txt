@@ -1,0 +1,13 @@
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\bin\Debug\Exercise.exe
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\bin\Debug\Exercise.pdb
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\bin\Debug\Exercise.xml
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\obj\Debug\Exercise.vbproj.AssemblyReference.cache
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\obj\Debug\Exercise.Form1.resources
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\obj\Debug\Exercise.Resources.resources
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\obj\Debug\Exercise.vbproj.GenerateResource.cache
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\obj\Debug\Exercise.vbproj.CoreCompileInputs.cache
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\obj\Debug\Exercise.exe
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\obj\Debug\Exercise.xml
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\obj\Debug\Exercise.pdb
+C:\Users\N4sterQ\Desktop\Praktyki\06.07.21\Exercises\Exercise\obj\Debug\Exercise.Form2.resources

@@ -1,0 +1,12 @@
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\bin\Debug\The Lottery.exe.config
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\bin\Debug\The Lottery.exe
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\bin\Debug\The Lottery.pdb
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\bin\Debug\The Lottery.xml
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\obj\Debug\The Lottery.vbproj.AssemblyReference.cache
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\obj\Debug\The_Lottery.Form1.resources
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\obj\Debug\The_Lottery.Resources.resources
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\obj\Debug\The Lottery.vbproj.GenerateResource.cache
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\obj\Debug\The Lottery.vbproj.CoreCompileInputs.cache
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\obj\Debug\The Lottery.exe
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\obj\Debug\The Lottery.xml
+C:\Users\N4sterQ\Desktop\Praktyki\09.07.21\The Lottery\obj\Debug\The Lottery.pdb
