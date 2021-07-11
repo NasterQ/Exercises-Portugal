@@ -1,0 +1,12 @@
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\bin\Debug\Rooster game.exe.config
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\bin\Debug\Rooster game.exe
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\bin\Debug\Rooster game.pdb
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\bin\Debug\Rooster game.xml
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\obj\Debug\Rooster game.vbproj.AssemblyReference.cache
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\obj\Debug\Rooster_game.Form1.resources
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\obj\Debug\Rooster_game.Resources.resources
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\obj\Debug\Rooster game.vbproj.GenerateResource.cache
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\obj\Debug\Rooster game.vbproj.CoreCompileInputs.cache
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\obj\Debug\Rooster game.exe
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\obj\Debug\Rooster game.xml
+C:\Users\N4sterQ\Desktop\Praktyki\12.07.21\Rooster game\obj\Debug\Rooster game.pdb
