@@ -1,0 +1,13 @@
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\bin\Debug\Goal Saver.exe.config
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\bin\Debug\Goal Saver.exe
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\bin\Debug\Goal Saver.pdb
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\bin\Debug\Goal Saver.xml
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\obj\Debug\Goal Saver.vbproj.AssemblyReference.cache
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\obj\Debug\Goal_Saver.Form1.resources
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\obj\Debug\Goal_Saver.Resources.resources
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\obj\Debug\Goal Saver.vbproj.GenerateResource.cache
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\obj\Debug\Goal Saver.vbproj.CoreCompileInputs.cache
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\obj\Debug\Goal Saver.exe
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\obj\Debug\Goal Saver.xml
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\obj\Debug\Goal Saver.pdb
+C:\Users\N4sterQ\Desktop\Praktyki\13.07.21\Goal Saver\obj\Debug\Goal_Saver.Form2.resources
