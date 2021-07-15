@@ -1,0 +1,12 @@
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\bin\Debug\File Read and Saver.exe.config
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\bin\Debug\File Read and Saver.exe
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\bin\Debug\File Read and Saver.pdb
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\bin\Debug\File Read and Saver.xml
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\obj\Debug\File Read and Saver.vbproj.AssemblyReference.cache
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\obj\Debug\File_Read_and_Saver.Form1.resources
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\obj\Debug\File_Read_and_Saver.Resources.resources
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\obj\Debug\File Read and Saver.vbproj.GenerateResource.cache
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\obj\Debug\File Read and Saver.vbproj.CoreCompileInputs.cache
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\obj\Debug\File Read and Saver.exe
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\obj\Debug\File Read and Saver.xml
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\File Read and Saver\obj\Debug\File Read and Saver.pdb
