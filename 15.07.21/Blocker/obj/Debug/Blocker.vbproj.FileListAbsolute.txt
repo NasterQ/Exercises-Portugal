@@ -1,0 +1,12 @@
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\bin\Debug\Blocker.exe.config
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\bin\Debug\Blocker.exe
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\bin\Debug\Blocker.pdb
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\bin\Debug\Blocker.xml
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\obj\Debug\Blocker.vbproj.AssemblyReference.cache
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\obj\Debug\Blocker.Form1.resources
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\obj\Debug\Blocker.Resources.resources
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\obj\Debug\Blocker.vbproj.GenerateResource.cache
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\obj\Debug\Blocker.vbproj.CoreCompileInputs.cache
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\obj\Debug\Blocker.exe
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\obj\Debug\Blocker.xml
+C:\Users\N4sterQ\Desktop\Praktyki\[9] 15.07.21\Blocker\obj\Debug\Blocker.pdb
